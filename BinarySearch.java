@@ -56,7 +56,7 @@ Average Case:
 
 
 
-public class BinarySearchDemo {
+public class BinarySearch {
 
     // Iterative Binary Search
     public static int binarySearchIterative(int[] arr, int item) {
