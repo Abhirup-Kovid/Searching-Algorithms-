@@ -34,9 +34,6 @@ Average Case:
 
 
 
-
-
-
 public class JumpSearch {
 
     public static int jumpSearch(int[] arr, int item) {
